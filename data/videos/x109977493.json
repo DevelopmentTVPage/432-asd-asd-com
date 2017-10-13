@@ -1,0 +1,96 @@
+{
+    "title": "ZeroWater&reg; 10-Cup Pitcher",
+    "description": "",
+    "referenceId": "1423168869",
+    "date_created": "1502520405",
+    "date_modified": "1504247454",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "home_page_gallery": null,
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "id": "109977493",
+    "loginId": "1758166",
+    "entityType": "1",
+    "titleTextEncoded": "zerowater-10-cup-pitcher",
+    "category": "",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "30",
+            "width": 1080,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/320\/179\/791997925-031320210.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109977493\/523e4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109977493\/523e4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109977493\/cc\/vtt\/en_1504196864.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977493\/523e4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977493\/523e4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977493\/523e4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977493\/523e4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 540,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109977493\/523e4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 214
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "mchilton",
+    "modified_date": "7\/24\/2017",
+    "created_date": "7\/24\/2017",
+    "creator": ""
+}

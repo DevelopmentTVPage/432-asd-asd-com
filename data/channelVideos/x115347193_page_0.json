@@ -1,0 +1,147 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "109982898",
+            "title": "Bellini Kitchen Master asdf",
+            "date_created": "1504299475",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "161",
+                    "width": 640,
+                    "height": 368
+                },
+                "mediaDuration": "161",
+                "prettyDuration": "00:02:41",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109982898\/3dfbf\/thumb-69c5e4064c3260ca22eddbed8a49cf10-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109982898\/3dfbf\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109982898\/3dfbf\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109982898\/cc\/vtt\/en_1504289417.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982898\/3dfbf\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 368
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982898\/3dfbf\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 368
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982898\/3dfbf\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 368
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982898\/3dfbf\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 626,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109982898\/3dfbf\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 184
+                    }
+                ]
+            },
+            "parentId": "115347193",
+            "url": "\/test\/bellini-kitchen-master\/115347193-109982898"
+        },
+        {
+            "id": "109960291",
+            "title": "Creative Baby i-Mat&trade;",
+            "date_created": "1504299475",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "72",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "72",
+                "prettyDuration": "00:01:12",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109960291\/4d449\/thumb-5a6cea2d355e69ca391691d756a5b2c8-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109960291\/4d449\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109960291\/4d449\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109960291\/cc\/vtt\/en_1503551405.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109960291\/4d449\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109960291\/4d449\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109960291\/4d449\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109960291\/4d449\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109960291\/4d449\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "115347193",
+            "url": "\/test\/creative-baby-i-mat\/115347193-109960291"
+        }
+    ]
+}
