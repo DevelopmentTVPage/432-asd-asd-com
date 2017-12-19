@@ -11,5 +11,6 @@
     "title": "asdf",
     "name": "asdf",
     "channelId": "111152718",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "autoplay": false
 }
