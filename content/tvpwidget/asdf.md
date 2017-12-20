@@ -1,6 +1,6 @@
 {
     "advertising": {
-        "enabled": false,
+        "enabled": true,
         "adServerUrl": "ss",
         "adTimeout": 2000,
         "maxAds": 100,
