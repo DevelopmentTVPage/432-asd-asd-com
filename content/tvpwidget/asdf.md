@@ -10,7 +10,7 @@
     "type": "carousel",
     "title": "asdf",
     "name": "asdf",
-    "channelId": "111152718",
+    "channelId": "6287448",
     "layout": "bootstrap",
     "autoplay": false
 }
